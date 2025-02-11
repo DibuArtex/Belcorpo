@@ -174,8 +174,8 @@ svg {
 .nav__logo {
   color: var(--title-color);
   font-weight: var(--font-medium);
-  width: 100x;
-  padding-top:10%;
+  width: 130px;
+  padding-top:5%;
 }
 
 .nav__logo span {
