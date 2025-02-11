@@ -20,12 +20,12 @@
   */
 
   --hue: 162;
-  --first-color: hsl(12, 69%, 71%);
-  --first-color-alt: hsl(339, 73%, 49%);
-  --title-color: hsl(339, 73%, 49%);
-  --text-color: hsl(339, 73%, 49%);
+  --first-color: hsl(15, 22%, 71%);
+  --first-color-alt: hsl(15, 43%, 43%);
+  --title-color:  hsl(15, 43%, 43%);
+  --text-color:  hsl(15, 43%, 43%);
   --body-color: hsl(0, 0%, 100%);
-  --container-color: hsl(322, 70%, 91%);
+  --container-color: hsl(0, 0%, 100%);
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -568,16 +568,16 @@ svg {
 ::-webkit-scrollbar {
   width: .6rem;
   border-radius: .5rem;
-  background-color: hsl(314, 93%, 83%);
+  background-color: hsl(15, 63%, 82%);
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: hsl(300, 100%, 48%);
+  background-color: hsl(15, 43%, 43%);
   border-radius: .5rem;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: hsl(320, 94%, 48%);
+  background-color: hsl(15, 43%, 43%);
 }
 
 /*=============== SCROLL UP ===============*/
